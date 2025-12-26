@@ -51,9 +51,6 @@ Alternatively, you can append the theme JSON directly to your `settings.json` fi
 | **Parameters** | `#fd971f` |
 | **Comments** | `#6e7066` |
 
-## 📝 License
-
-This theme is inspired by the original Monokai. Please check the [LICENSE](./LICENSE) file for details.
 
 ## 👤 Credits
 
