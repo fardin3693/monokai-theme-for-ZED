@@ -28,6 +28,7 @@ To use this theme in Zed, follow these simple steps:
     - **macOS:** `~/.config/zed/themes`
     - **Linux:** `~/.config/zed/themes`
     - **Windows:** `%APPDATA%\Zed\themes`
+    - For my case (windows) the location was: `C:\Users\fardi\AppData\Local\Zed\extensions\installed`, just clone this repo there.
 3.  Inside the `themes` folder, create a new folder named `monokai-classic`.
 4.  Create a file named `monokai-classic.json` inside that folder and paste the [theme JSON](./monokai-classic.json) into it.
 5.  Reload Zed (`Cmd + Shift + R` or `Ctrl + Shift + R`).
