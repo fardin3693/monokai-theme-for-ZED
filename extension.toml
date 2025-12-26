@@ -1,10 +1,10 @@
-id = "one-dark-pro-max"
-name = "One Dark Pro Max"
+id = "monokai like"
+name = "monokai like"
 version = "0.0.1"
 schema_version = 1
-description = "One Dark Pro Max theme for Zed :)"
-repository = "https://github.com/kussumma/one-dark-pro-max"
-authors = ["Kusuma"]
+description = "monokai classic theme for Zed"
+repository = "https://github.com/fardin3693/monokai-theme-for-ZED"
+authors = ["monokai team, bring to Zed by Fardin"]
 themes = ["themes/one-dark-pro-max.json"]
 icon_themes = []
 languages = []
